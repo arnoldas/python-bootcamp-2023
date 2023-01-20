@@ -1,2 +1,4 @@
 # python-bootcamp-2023
-Udemy course: https://www.udemy.com/course/100-days-of-code/
+Course: https://100daysofpython.dev/
+
+Online env - https://replit.com
