@@ -3,4 +3,6 @@ Course: https://100daysofpython.dev/
 
 Online env - https://replit.com
 
-Thonny (Python IDE for debugging) - https://thonny.org/
+For debugging:
+- Thonny (Python IDE for debugging) - https://thonny.org/ 
+- Online debugger - https://pythontutor.com/
