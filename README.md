@@ -9,3 +9,5 @@ For debugging:
 
 ASCII Art Generator:
 https://patorjk.com/software/taag/
+
+PyCharm keyboard shortcuts - https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html
