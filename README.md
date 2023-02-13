@@ -11,3 +11,5 @@ ASCII Art Generator:
 https://patorjk.com/software/taag/
 
 PyCharm keyboard shortcuts - https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html
+
+https://pypi.org/ - Python packages
