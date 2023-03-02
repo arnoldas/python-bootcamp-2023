@@ -13,3 +13,5 @@ https://patorjk.com/software/taag/
 PyCharm keyboard shortcuts - https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html
 
 https://pypi.org/ - Python packages
+
+https://opentdb.com/ - Free to use, user-contributed trivia question database.
