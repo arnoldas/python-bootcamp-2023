@@ -30,10 +30,7 @@ while len(guessed_states) < total_guesses:
         # Generate CSV file which states are not guessed
         print(all_states)
         print(guessed_states)
-        missing_states = []
-        for state in all_states:
-            if state not in guessed_states:
-                missing_states.append(state)
+        missing_states = [state for state in all_states if state not in guessed_states]
         df = pandas.DataFrame(missing_states)
         df.to_csv("states_to_learn.csv")  # Creating new CSV file
         break
