@@ -1,0 +1,1 @@
+1. Need to create App password, in sender account and use it instead of account password
